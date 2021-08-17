@@ -1,0 +1,23 @@
+{
+  "_id": "page.text-a",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.text-a--text.auto_name__2",
+      "_type": "text",
+      "label": "Journey A - Text Field",
+      "name": "auto_name__2"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "steps": [
+    "page.number-a",
+    "page.date-a"
+  ],
+  "url": "text-a"
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "page.last-page",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.last-page--textarea.auto_name__8",
+      "_type": "textarea",
+      "label": "Last Page Comment",
+      "name": "auto_name__8"
+    }
+  ],
+  "show": {
+    "any": [
+      {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "auto_value__1"
+      },
+      {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "auto_value__2"
+      }
+    ],
+    "conditionsType": "any"
+  },
+  "url": "last-page"
+}

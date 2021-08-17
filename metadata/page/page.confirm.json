@@ -1,0 +1,6 @@
+{
+  "_id": "page.confirm",
+  "_type": "page.confirmation",
+  "heading": "All Done",
+  "url": "confirm"
+}

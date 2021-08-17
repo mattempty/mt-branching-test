@@ -1,0 +1,13 @@
+{
+  "_id": "page.date-c",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date-c--date.auto_name__9",
+      "_type": "date",
+      "legend": "Journey C - Date",
+      "name": "auto_name__9"
+    }
+  ],
+  "url": "date-c"
+}

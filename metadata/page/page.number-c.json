@@ -1,0 +1,13 @@
+{
+  "_id": "page.number-c",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.number-c--number.auto_name__5",
+      "_type": "number",
+      "label": "Journey C - Number Field",
+      "name": "auto_name__5"
+    }
+  ],
+  "url": "number-c"
+}

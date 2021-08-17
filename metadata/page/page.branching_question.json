@@ -1,0 +1,32 @@
+{
+  "_id": "page.branching_question",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.branching_question--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.branching_question--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Journey A",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.branching_question--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Journey B",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.branching_question--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Journey C",
+          "value": "auto_value__3"
+        }
+      ],
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "branching_question"
+}
